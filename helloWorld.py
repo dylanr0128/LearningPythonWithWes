@@ -1,6 +1,6 @@
 def printHelloWorld():
 
-    print("Hello Wes")
+    print("Hello Mom")
 
 def printString(userEntry):
 
