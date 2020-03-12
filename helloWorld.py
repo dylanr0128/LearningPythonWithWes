@@ -1,10 +1,6 @@
 def printHelloWorld():
 
-<<<<<<< HEAD
     print("Hello Dylan")
-=======
-    print("Hello Mom")
->>>>>>> master
 
 def printString(userEntry):
 
